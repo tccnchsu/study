@@ -1,5 +1,9 @@
 # studay
 
+最新信息科学领域SCI影响因子查询及期刊投稿分析系统
+
+https://www.letpub.com.cn/index.php?page=journalapp&fieldtag=4&firstletter=
+
 Generalized sampling: a variational approach .I. Theory
 
 http://cmp.felk.cvut.cz/ftp/articles/kybic/Kybic-ieeeSP2002a.pdf
