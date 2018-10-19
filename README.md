@@ -3,6 +3,9 @@
 Enlarge your Photos
 https://www.photoenlarger.com/
 
+deep learning control problem
+https://www.google.com.tw/search?q=deep+learning+control+problem&oq=deep+learning+control+problem&aqs=chrome..69i57.6140j0j8&sourceid=chrome&ie=UTF-8
+
 Citing and referencing in LaTeX -using BibTeX
 https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/library/public/LaTeX-and-BibTeX-branded-jan-2016.pdf
 
