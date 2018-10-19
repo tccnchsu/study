@@ -3,6 +3,9 @@
 Enlarge your Photos
 https://www.photoenlarger.com/
 
+使用PRIDE資料
+https://pride.stpi.narl.org.tw/
+
 The Berkeley Segmentation Dataset and Benchmark
 https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
 
