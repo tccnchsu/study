@@ -3,6 +3,9 @@
 Enlarge your Photos
 https://www.photoenlarger.com/
 
+Citing and referencing in LaTeX -using BibTeX
+https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/library/public/LaTeX-and-BibTeX-branded-jan-2016.pdf
+
 最新信息科学领域SCI影响因子查询及期刊投稿分析系统
 
 https://www.letpub.com.cn/index.php?page=journalapp&fieldtag=4&firstletter=
