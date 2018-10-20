@@ -1,4 +1,11 @@
-# studay
+# study
+
+Machine Learning Control (MLC) - Springer  
+https://www.springer.com/cda/content/document/cda_downloaddocument/9783319406237-c2.pdf?SGWID=0-0-45-1593984-p180029546
+
+A Survey of Deep Network Solutions for Learning Control in Robotics: From Reinforcement to Imitation
+https://arxiv.org/pdf/1612.07139.pdf
+
 
 Enlarge your Photos
 https://www.photoenlarger.com/
