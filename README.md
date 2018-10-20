@@ -16,6 +16,10 @@ https://www.google.com.tw/search?q=deep+learning+control+problem&oq=deep+learnin
 Citing and referencing in LaTeX -using BibTeX
 https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/library/public/LaTeX-and-BibTeX-branded-jan-2016.pdf
 
+期刊 Enterprise Information Systems  (期刊是 Q2等級，IF=1.683)，
+https://www.scimagojr.com/journalsearch.php?q=10900153330&tip=sid
+
+
 最新信息科学领域SCI影响因子查询及期刊投稿分析系统
 
 https://www.letpub.com.cn/index.php?page=journalapp&fieldtag=4&firstletter=
