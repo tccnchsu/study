@@ -1,11 +1,21 @@
 # study
 
+陳平 (經濟學者)
+https://zh.wikipedia.org/wiki/%E9%99%88%E5%B9%B3_(%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%80%85)
+ Tang, Yinan, Wolfram Elsner, Torsen Heinrich, and Ping Chen, 「Trend, Randomness, and Noise: Exogenous vs. Endogenous Explanation in Complex Heterodox Analysis (A Note on Nicolas Bouleau in RWER 60)」, Real World Economics Review, no.62 (2012).
+ http://www.paecon.net/PAEReview/issue62/TangElsnerHeinrichChen62.pdf
+
 Machine Learning Control (MLC) - Springer  
 https://www.springer.com/cda/content/document/cda_downloaddocument/9783319406237-c2.pdf?SGWID=0-0-45-1593984-p180029546
 
 A Survey of Deep Network Solutions for Learning Control in Robotics: From Reinforcement to Imitation
 https://arxiv.org/pdf/1612.07139.pdf
 
+Deep learning is a specific maching learning method for artificial intelligence and it is capable of building progressively more abstract representations of input data.
+
+plays an essential role in various fields of study  (Goodfellow et al., 2016).
+
+Goodfellow I, Bengio Y and Courville A (2016) Deep Learning. MIT Press. http://www.deeplearningbook.org.
 
 Enlarge your Photos
 https://www.photoenlarger.com/
