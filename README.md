@@ -4,6 +4,10 @@
 https://zh.wikipedia.org/wiki/%E9%99%88%E5%B9%B3_(%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%80%85)
  Tang, Yinan, Wolfram Elsner, Torsen Heinrich, and Ping Chen, 「Trend, Randomness, and Noise: Exogenous vs. Endogenous Explanation in Complex Heterodox Analysis (A Note on Nicolas Bouleau in RWER 60)」, Real World Economics Review, no.62 (2012).
  http://www.paecon.net/PAEReview/issue62/TangElsnerHeinrichChen62.pdf
+ 
+ Journal of Functional Analysis  
+ http://www.letpub.com.cn/index.php?page=journalapp&view=search
+ 
 
 Machine Learning Control (MLC) - Springer  
 https://www.springer.com/cda/content/document/cda_downloaddocument/9783319406237-c2.pdf?SGWID=0-0-45-1593984-p180029546
