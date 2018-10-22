@@ -1,5 +1,7 @@
 # study
 
+Structural Health Monitoring   Q
+
 陳平 (經濟學者)
 https://zh.wikipedia.org/wiki/%E9%99%88%E5%B9%B3_(%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%80%85)
  Tang, Yinan, Wolfram Elsner, Torsen Heinrich, and Ping Chen, 「Trend, Randomness, and Noise: Exogenous vs. Endogenous Explanation in Complex Heterodox Analysis (A Note on Nicolas Bouleau in RWER 60)」, Real World Economics Review, no.62 (2012).
