@@ -1,6 +1,9 @@
 # study
 
-Structural Health Monitoring   Q
+Structural Health Monitoring   Q2
+
+MATHEMATICAL MODELS & METHODS IN APPLIED SCIENCES q1
+https://www.letpub.com.cn/index.php?page=journalapp&view=search
 
 陳平 (經濟學者)
 https://zh.wikipedia.org/wiki/%E9%99%88%E5%B9%B3_(%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%80%85)
