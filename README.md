@@ -2,6 +2,14 @@
 
 Structural Health Monitoring   Q2
 
+Can Machine Learn the Concept of Sine
+https://towardsdatascience.com/can-machine-learn-the-concept-of-sine-4047dced3f11
+
+Google Colab Free GPU Tutorial
+
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+
+
 MATHEMATICAL MODELS & METHODS IN APPLIED SCIENCES q1
 https://www.letpub.com.cn/index.php?page=journalapp&view=search
 
