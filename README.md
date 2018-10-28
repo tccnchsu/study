@@ -1,5 +1,9 @@
 # study
 
+
+https://www.sciencedirect.com/
+
+
 Structural Health Monitoring   Q2
 
 Can Machine Learn the Concept of Sine
