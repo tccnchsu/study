@@ -3,6 +3,8 @@
 
 https://www.sciencedirect.com/
 
+fu-kuo-chang
+https://profiles.stanford.edu/fu-kuo-chang
 
 Structural Health Monitoring   Q2
 
